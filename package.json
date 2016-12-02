@@ -1,0 +1,24 @@
+{
+  "name": "gmaps-to-slack",
+  "version": "1.0.0",
+  "description": "Webhook service to transform Maps Links in Slack to Maps Pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntbm/gmapsToSlack.git"
+  },
+  "author": "ntbm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntbm/gmapsToSlack/issues"
+  },
+  "homepage": "https://github.com/ntbm/gmapsToSlack#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "coffee-script": "^1.11.1",
+    "express": "^4.14.0"
+  }
+}
